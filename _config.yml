@@ -28,8 +28,12 @@ twitter_username:
 github_username: vinerLee 
 
 # Build settings
+<<<<<<< HEAD
 markdown: kramdown
 theme: minima
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 779e1f66a3a8f60858e46275bcadd4c20f362b4e
 plugins:
   - jekyll-feed
 
