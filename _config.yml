@@ -21,21 +21,15 @@
 title: vinerLee's Blog
 email: gdkhi@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-	사람을 위한 장인의 저장소
+    사람을 위한 장인의 저장소
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinerLee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: vinerLee 
 
 # Build settings
-<<<<<<< HEAD
 markdown: kramdown
 theme: minima
-=======
-theme: jekyll-theme-minimal
->>>>>>> 779e1f66a3a8f60858e46275bcadd4c20f362b4e
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
