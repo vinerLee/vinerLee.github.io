@@ -5,7 +5,7 @@ DATE_WITH_TIME=`date "+%Y/%m/%d-%H:%M:%S"`
 cd ~/Documents/Workspace/Public/vinerLee-blog
 echo "adding all posts.."
 
-git add diary/*.md
+git add _diary/*.md
 git add _wiki/*.md
 echo "committing on ${DATE_WITH_TIME}"
 
